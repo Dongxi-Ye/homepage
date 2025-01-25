@@ -21,7 +21,7 @@ repository               : "Dongxi-Ye.github.io/homepage"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Dongxi Ye" 
   bio              : "Short biography for the left-hand sidebar"
   location         : "Zhuhai, Guangdong, China"
