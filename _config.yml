@@ -22,23 +22,12 @@ repository               : "Dongxi-Ye.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Dongxi Ye"
-  pronouns         : # example: "she/her"  
+  name             : "Dongxi Ye" 
   bio              : "Short biography for the left-hand sidebar"
   location         : "Zhuhai, Guangdong, China"
   employer         : "Sun Yat-sen University"
-  uri              : # URL
-  email            : "yedx3 at mail dot sysu dot edu dot cn" 
+  email            : "yedx3@mail.sysu.edu.cn" 
 
-  # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -218,12 +207,6 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: false
-    permalink: /:collection/:path/
-  talks:
-    output: false
-    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -264,24 +247,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
-
 
 # Sass/SCSS
 sass:
