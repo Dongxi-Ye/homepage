@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Dongxi Ye"
+title                    : "Dongxi Ye's homepage"
 title_separator          : "-"
 name                     : &name "Dongxi Ye"
 description              : &description "personal description"
