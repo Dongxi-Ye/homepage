@@ -13,4 +13,4 @@ My research specialty is number theory, and in particular topics that have conne
 $$
 \frac{21}{8}\sum_{n=0}^{\infty}\binom{2n}{n}^{3}\left(n+\frac{5}{42}\right)\frac{1}{2^{12n}}=\frac{1}{\pi}
 $$
-of Ramanujan actually arises from CM values of modular forms associated to the modular curve $\overline{\Gamma_{0}(4)\backslash\mathbb{H}}$. If you are interested in this kind of number theory, feel free to drop me a line. I would love to discuss with you.
+of Ramanujan actually arises from CM values of modular forms associated to the modular curve $\overline{\Gamma_{0}(4)\backslash\mathbb{H}}$. If you are interested in this kind of topics, feel free to drop me a line. I would love to discuss with you.
