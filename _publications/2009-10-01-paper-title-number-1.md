@@ -2,9 +2,9 @@
 title: "Lucas congruences using modular forms"
 collection: publications
 category: manuscripts
+excerpt: 
 date: 2025-01-01
 venue: 'Bulletin of the London Mathematical Society'
-excerpt: ''
 citation: 'F. Beukers, W.-L. Tsai, D. Ye, Lucas congruences using modular forms, Bulletin of the London Mathematical Society, 57 (2025), 69-78'
 ---
 
