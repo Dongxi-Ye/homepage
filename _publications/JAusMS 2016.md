@@ -2,7 +2,7 @@
 title: "The level 12 analogue of Ramanujan's function k"
 collection: publications
 category: manuscripts
-excerpt: 'S. Cooper and D. Ye, The level 12 analogue of Ramanujan's function k, Journal of the Australian Mathematical Society, 101 (2016), 29--53.'
+excerpt: 'S. Cooper and D. Ye, The level 12 analogue of Ramanujan's function k, Journal of the Australian Mathematical Society, 101 (2016), 29-53.'
 date: 2016-01-01
 venue: 'Journal of the Australian Mathematical Society'
 paperurl: 'https://www.cambridge.org/core/journals/journal-of-the-australian-mathematical-society/article/level-12-analogue-of-ramanujans-function-k/754615E26DC9A3DFF0F3C7F3271DC741'
