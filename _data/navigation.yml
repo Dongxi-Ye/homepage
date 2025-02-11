@@ -13,6 +13,9 @@ main:
 
   - title: "Undergraduate Projects"
     url: /posts/
+
+  - title: "Posts"
+    url: /posts/
     
   - title: "CV"
     url: /cv/
