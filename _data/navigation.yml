@@ -9,7 +9,7 @@ main:
     url: /publications/
   
   - title: "Undergraduate Projects"
-    url: /posts/
+    url: /post/
     
   - title: "CV"
     url: /cv/
