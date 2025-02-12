@@ -22,7 +22,7 @@ n=\prod_{p\geq2}p^{e_{p}},
 $$
 
 $$
- r_{(1,1,1,1,1,2,4)}(n^{2})= \begin{cases}6s(n)+4k(n)&\mbox{if $e_{2}=0$,}\\\label{n7}\\
+ r_{(1,1,1,1,1,2,4)}(n^{2})= \begin{cases}6s(n)+4k(n)&\mbox{if $e_{2}=0$,}\\\\
     192s(n)-20g(n)&\mbox{if $e_{2}=1$,}\\\\
     \frac{1491\times 2^{5e_{2}-3}-756}{2^{5}-1}s(n)&\mbox{if $e_{2}\geq2$,}\end{cases}
     $$
