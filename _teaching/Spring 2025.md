@@ -6,13 +6,5 @@ venue: "Sun Yat-sen University"
 date: 2025-03-01
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This course is designed to introduce basic notion of complex analysis.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
