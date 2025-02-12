@@ -10,7 +10,7 @@ H. Chen, D. Ye and M. Yuan, On a remark of Cooper, Lam and Ye, Colloquium Mathem
 
 Project description
 ===
-In this project, we made use of modular forms and the Shimura lifts to formulate the number $$r_{(a_{1},\ldots,a_{7})}(n)$$ of integral solutions of
+In this project, we made use of modular forms and the Shimura lifts to formulate the number $$r_{(a_{1},\ldots,a_{7})}(n^{2})$$ of integral solutions of
 
 $$
 a_{1}x_{1}^{2}+a_{2}x_{2}^{2}+a_{3}x_{3}^{2}+a_{4}x_{4}^{2}+a_{5}x_{5}^{2}+a_{6}x_{6}^{2}+a_{7}x_{7}^{2}=n^{2}
