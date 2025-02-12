@@ -34,8 +34,8 @@ $$
     $$
 
     $$
-    g(n)=\prod_{p\geq3}\left(A(p^{e_p})-p^2\left( \frac{-2}{p}\right)A(p^{e_p-1})  \right)     
-$$
+    g(n)=\prod_{p\geq3}\left(A(p^{e_p})-p^2\left( \frac{-2}{p}\right)A(p^{e_p-1})  \right)$$
+
 with
 
 $$
