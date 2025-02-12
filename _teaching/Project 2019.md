@@ -10,7 +10,7 @@ Z. Cheng, J. Wang and D. Ye, Powers of certain theta products, Mathematical Repo
 
 Project description
 ===
-For $N\in\{14,15\}$, define for $n,k\geq1$,
+For $$N\in\{14,15\}$$, define for $$n,k\geq1$$,
 
 $$
 r(n,k;N)=
@@ -22,11 +22,11 @@ r(n,k;N)=
 \end{cases}
 $$
 
-In this project, we established Ramanujan-Mordell type formulas for $r(n,k;N)$. For example, we proved that
+In this project, we established Ramanujan-Mordell type formulas for $$r(n,k;N)$$. For example, we proved that
 
 $$
 r(n,k;14)\sim -\frac{4k}{B_{2k}}\frac{(-1)^{k}\sigma_{2k-1}(n)+\left(-2\right)^{k}\sigma_{2k-1}(n/2)
 +7^{k}\sigma_{2k-1}(n/7)+14^{k}\sigma_{2k-1}(n/14)}{(-1)^{k}+\left(-2\right)^{k}+7^{k}+14^{k}}
 $$
 
-as $n\to\infty$, where $B_{k}$ denotes the Bernoulli number, and $\sigma_{s}(n)=\sum_{d|n}d^{s}$.
+as $$n\to\infty$$, where $$B_{k}$$ denotes the Bernoulli number, and $$\sigma_{s}(n)=\sum_{d|n}d^{s}$$.
