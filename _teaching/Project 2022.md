@@ -14,11 +14,11 @@ Project description
 In this project, we gave a general formulation for certain conjectures of Z.-H. Sun that relate representations by sums of triangular numbers to representations 
 by sums of squares, and provided a computationally feasible kit to validate specified cases. For example, if one defines
 
-$$T(a_{1},\ldots,a_{k};n)=\left|\left\{(x_{1},\ldots,x_{k})\in\mathbb{Z}^{k}:\,a_{1}\frac{x_{1}(x_1+1)}{2}+\cdots+a_{k}\frac{x_{k}(x_k+1)}{2}=n \right\}\right|$$
+$$T(a_{1},\ldots,a_{k};n)=\left|\left\{(x_{1},\ldots,x_{k})\in\mathbb{Z}^{k}: a_{1}\frac{x_{1}(x_1+1)}{2}+\cdots+a_{k}\frac{x_{k}(x_k+1)}{2}=n \right\}\right|$$
 
 and
 
-$$S(a_{1},\ldots,a_{k};n)=\left|\left\{(x_{1},\ldots,x_{k})\in\mathbb{Z}^{k}:\,a_{1}x_{1}^{2}+\cdots+a_{k}x_{k}^{2}=n \right\}\right|,$$
+$$S(a_{1},\ldots,a_{k};n)=\left|\left\{(x_{1},\ldots,x_{k})\in\mathbb{Z}^{k}: a_{1}x_{1}^{2}+\cdots+a_{k}x_{k}^{2}=n \right\}\right|,$$
 
 then upon our computations, 
 
