@@ -17,9 +17,7 @@ a_{1}x_{1}^{2}+a_{2}x_{2}^{2}+a_{3}x_{3}^{2}+a_{4}x_{4}^{2}+a_{5}x_{5}^{2}+a_{6}
 $$
 
 for a positive integer~$$n$$ and some given septenary tuple $$(a_{1},\ldots,a_{7})$$. For example, we obtained for
-$$
-n=\prod_{p\geq2}p^{e_{p}},
-$$
+$$n=\prod_{p\geq2}p^{e_{p}},$$
 
 $$
  r_{(1,1,1,1,1,2,4)}(n^{2})= \begin{cases}6s(n)+4k(n)&\mbox{if $e_{2}=0$,}\\\\
