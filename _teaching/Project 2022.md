@@ -20,7 +20,7 @@ and
 
 $$S(a_{1},\ldots,a_{k};n)=\left|\left\{(x_{1},\ldots,x_{k})\in\mathbb{Z}^{k}: a_{1}x_{1}^{2}+\cdots+a_{k}x_{k}^{2}=n \right\}\right|,$$
 
-then upon our computations, 
+then upon our computations, one can tell that
 
 $${T(1,2,3,10;n)=\frac{4}{3}S(1,2,3,10;2n+4)}$$
 
