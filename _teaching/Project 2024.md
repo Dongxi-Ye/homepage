@@ -10,7 +10,7 @@ T. Huber, C. Liu, J. McLaughlin, D. Ye, M. Yuan and S. Zhang, On the vanishing o
 
 Project description
 ===
-In this project, we studied and characterized the vanishing of the Fourier coefficients of CM eta quotients. For example, we proved that if $$a(n)$$ are defined by
+In this project, we studied and characterized the vanishing of the Fourier coefficients of CM eta quotients. For example, we proved that if $$a(n)$$ is defined by
 
 $$
 \sum_{n=1}^{\infty}a(n)q^{n}=q\prod_{n=1}^{\infty}(1-q^{n})^{3}(1-q^{7n})^{3},
