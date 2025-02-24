@@ -3,7 +3,7 @@ title: "On the vanishing of the Fourier coefficients of CM eta quotients"
 collection: teaching
 type: "Graduate project"
 venue: "Sun Yat-sen University"
-date: 2024-03-01
+date: 2023-05-01
 ---
 
 T. Huber, C. Liu, J. McLaughlin, D. Ye, M. Yuan and S. Zhang, On the vanishing of the coefficients of CM eta quotients, Proceedings of the Edinburgh Mathematical Society, 66 (2023), 1202-1216.
