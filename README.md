@@ -69,6 +69,9 @@ To run the `docker run` command on Windows, you need to adjust the syntax for th
 docker run -p 4000:4000 --rm -v C:\path\to\your\site:/usr/src/app jekyll-site
 ```
 
+## Photo Gallery
+Check out my photo gallery [here](gallery.html).
+
 ### Things to Keep in Mind:
 1. **Use PowerShell**:
    - If you are using PowerShell, you can use `${PWD}` for the current directory:
