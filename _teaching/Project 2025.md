@@ -1,5 +1,5 @@
 ---
-title: "Computing the determinant of $$U_{p}$$ on $$M_{k}(p,\chi)$$"
+title: "Computing the determinant of the operator $$U_{p}$$"
 collection: teaching
 type: "Graduate project"
 venue: "Sun Yat-sen University"
