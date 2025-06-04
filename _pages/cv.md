@@ -21,9 +21,8 @@ Work experience
 
 Recent publications
 ======
-T. Huber, J. McLaughlin and D. Ye, Generalizations of some $$q$$-product Identities of Ramanujan and others, AMS Contemporary Mathematics, 2025.
-
-T. Huber, J. McLaughlin and D. Ye, Dissections of lacunary eta quotients and identically vanishing coefficients. Advances in Applied Mathematics 168 (2025), Paper No. 102902.
+* T. Huber, J. McLaughlin and D. Ye, Generalizations of some $$q$$-product Identities of Ramanujan and others, AMS Contemporary Mathematics, 2025.
+* T. Huber, J. McLaughlin and D. Ye, Dissections of lacunary eta quotients and identically vanishing coefficients. Advances in Applied Mathematics 168 (2025), Paper No. 102902.
 * M. van Hoeij, W.-L. Tsai and D. Ye, The modularity of Z.-W. Sun’s conjectural formulas for 1/π, Proceedings of the American Mathematical Society (2025).
 * F. Beukers, W.-L. Tsai and D. Ye, Lucas congruences using modular forms, Bulletin of the London Mathematical Society, 57 (2025), 69-78.
 * D. Ye, Ramanujan type series for $$1/pi$$, revisited, Canadian Mathematical Bulletin, 67 (2024), no. 2, 350–368.
