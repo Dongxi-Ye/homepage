@@ -50,7 +50,7 @@ Recent publications
 * S. Cooper and D. Ye, The Rogers-Ramanujan continued fraction and its level 13 analogue, Journal of Approximation Theory, 193 (2015), 99-127.
 * S. Cooper and D. Ye, Eisenstein series to the tredecic base, Bulletin of the Australian Mathematical Society, 91 (2015), 19–28.
 * S. Cooper and D. Ye, Explicit evaluations of a level 13 analogue of the Rogers-Ramanujan continued fraction, Journal of Number Theory, 139 (2014), 91–111.
-* [1] S. Cooper, H. Y. Lam and D. Ye, Representations of squares by certain quinary quadratic forms, Acta Arithmetica, 157 (2013), 147–168.
+* S. Cooper, H. Y. Lam and D. Ye, Representations of squares by certain quinary quadratic forms, Acta Arithmetica, 157 (2013), 147–168.
 
 
 
