@@ -25,7 +25,7 @@ Recent publications
 * T. Huber, J. McLaughlin and D. Ye, Dissections of lacunary eta quotients and identically vanishing coefficients. Advances in Applied Mathematics 168 (2025), Paper No. 102902.
 * M. van Hoeij, W.-L. Tsai and D. Ye, The modularity of Z.-W. Sun’s conjectural formulas for 1/π, Proceedings of the American Mathematical Society (2025).
 * F. Beukers, W.-L. Tsai and D. Ye, Lucas congruences using modular forms, Bulletin of the London Mathematical Society, 57 (2025), 69-78.
-* D. Ye, Ramanujan type series for $$1/pi$$, revisited, Canadian Mathematical Bulletin, 67 (2024), no. 2, 350–368.
+* D. Ye, Ramanujan type series for 1/π, revisited, Canadian Mathematical Bulletin, 67 (2024), no. 2, 350–368.
 * T. Huber, N. Mayes, J. Opoku and D. Ye, Ramanujan type congruences for quotients of Klein forms, Journal of Number Theory, 258 (2024), 281-333.
 * Z. Gu, G. Lin, D. Ye and X. Zhang, On Ramanujan’s inversion formulas, Journal of Mathematical Analysis and Applications, 535 (2024), 128147.
 * T. Huber, J. Mc Laughlin and D. Ye, Further Results on Vanishing Coefficients in the Series Expansion of Lacunary Eta Quotients, New York Journal of Mathematics, 30 (2024), 1307–1436.
