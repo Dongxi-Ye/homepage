@@ -1,27 +1,27 @@
-<section id="gallery" class="gallery">
-    <div class="container">
-        <div class="section-title">
-            <h2>Photo Gallery</h2>
-            <p>Some moments worth sharing</p>
-        </div>
-
-        <div class="row gallery-container">
-            {% for image in site.static_files %}
-                {% if image.path contains '/assets/img/gallery/' %}
-                    <div class="col-lg-4 col-md-6 gallery-item">
-                        <div class="gallery-wrap">
-                            <img src="{{ image.path | relative_url }}" class="img-fluid" alt="">
-                            <div class="gallery-info">
-                                <div class="gallery-links">
-                                    <a href="{{ image.path | relative_url }}" data-gallery="galleryGallery" class="gallery-lightbox" title=""><i class="bx bx-plus"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                {% endif %}
-            {% endfor %}
-        </div>
+<div class="gallery-container">
+  {% assign gallery_dir = '/assets/img/gallery/' %}
+  
+  {% for image in site.static_files %}
+    {% if image.path contains gallery_dir %}
+    <div class="gallery-item">
+      <a href="{{ image.path | relative_url }}" data-lightbox="gallery">
+        <img src="{{ image.path | relative_url }}" 
+             alt="Gallery image {{ forloop.index }}" 
+             loading="lazy">
+      </a>
     </div>
+    {% endif %}
+  {% endfor %}
+</div>
+
+<!-- Lightbox initialization (add at bottom) -->
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  if (typeof lightbox === 'function') {
+    lightbox('[data-lightbox="gallery"]');
+  }
+});
+</script>
 </section>
     </div> 
 </body>
