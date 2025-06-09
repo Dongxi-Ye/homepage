@@ -1,40 +1,28 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Photo Gallery</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            text-align: center;
-            background-color: #f4f4f4;
-            margin: 0;
-            padding: 20px;
-        }
-        .gallery {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: center;
-            gap: 10px;
-        }
-        .gallery img {
-            max-width: 100%;
-            height: auto;
-            border-radius: 8px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-            transition: transform 0.2s;
-        }
-        .gallery img:hover {
-            transform: scale(1.05);
-        }
-    </style>
-</head>
-<body>
-    <h1>Photo Gallery</h1>
-    <div class="gallery">
-        < img src="_includes/Balla with a Christmas tree.jpg" alt="Description of image 1">
-        <!-- Add more images as needed -->
+<section id="gallery" class="gallery">
+    <div class="container">
+        <div class="section-title">
+            <h2>Photo Gallery</h2>
+            <p>Some moments worth sharing</p>
+        </div>
+
+        <div class="row gallery-container">
+            {% for image in site.static_files %}
+                {% if image.path contains '/assets/img/gallery/' %}
+                    <div class="col-lg-4 col-md-6 gallery-item">
+                        <div class="gallery-wrap">
+                            <img src="{{ image.path | relative_url }}" class="img-fluid" alt="">
+                            <div class="gallery-info">
+                                <div class="gallery-links">
+                                    <a href="{{ image.path | relative_url }}" data-gallery="galleryGallery" class="gallery-lightbox" title=""><i class="bx bx-plus"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                {% endif %}
+            {% endfor %}
+        </div>
+    </div>
+</section>
     </div> 
 </body>
 </html>
