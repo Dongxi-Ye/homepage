@@ -21,6 +21,7 @@ Work experience
 
 Recent publications
 ======
+* T. Bhowmik, W.-L. Tsai and D. Ye, Euler-type recurrences for $$t$$-color and $$t$$-regular partition functions,  Research in the Mathematical Sciences 12, 69 (2025).
 * T. Huber, J. McLaughlin and D. Ye, Generalizations of some $$q$$-product Identities of Ramanujan and others, AMS Contemporary Mathematics, 2025.
 * T. Huber, J. McLaughlin and D. Ye, Dissections of lacunary eta quotients and identically vanishing coefficients. Advances in Applied Mathematics 168 (2025), Paper No. 102902.
 * M. van Hoeij, W.-L. Tsai and D. Ye, The modularity of Z.-W. Sun’s conjectural formulas for 1/π, Proceedings of the American Mathematical Society (2025).
