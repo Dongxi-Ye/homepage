@@ -5,12 +5,13 @@ permalink: /photo-gallery/
 ---
 
 <style>
-/* gallery CSS */
+/* --- Simple responsive photo grid styling --- */
 .photo-gallery {
   display: flex;
   flex-wrap: wrap;
   gap: 10px;
   justify-content: center;
+  margin-top: 20px;
 }
 
 .photo-item {
@@ -25,6 +26,7 @@ permalink: /photo-gallery/
   object-fit: cover;
   border-radius: 4px;
   transition: transform 0.3s ease;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
 }
 
 .photo-item img:hover {
@@ -32,17 +34,12 @@ permalink: /photo-gallery/
 }
 </style>
 
-Here are photos of my kitty 🐾:
+Here are some photos of my kitty 🐾:
 
 <div class="photo-gallery">
-  {% for file in site.static_files %}
-    {% assign path = file.path | downcase %}
-    {% if path contains "assets/images/gallery/" %}
-      <div class="photo-item">
-        <a href="{{ '/assets/images/gallery/congruent_number.jpg'| relative_url }} ">
-          < img src="{{ '/assets/images/gallery/congruent_number.jpg'| relative_url }}" alt="kitty photo" />
-        </a >
-      </div>
-    {% endif %}
-  {% endfor %}
+  <div class="photo-item">
+    <a href=" '/assets/images/gallery/congruent_number.jpg' | relative_url }}">
+      < img src="{{ '/assets/images/gallery/congruent_number.jpg' | relative_url }}" alt="kitty photo" />
+    </a >
+  </div>
 </div>
