@@ -1,0 +1,25 @@
+/* ---- Photo Gallery styles ---- */
+.photo-gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+}
+
+.photo-item {
+  flex: 1 0 200px;
+  max-width: 250px;
+  overflow: hidden;
+}
+
+.photo-item img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  border-radius: 4px;
+  transition: transform 0.3s ease;
+}
+
+.photo-item img:hover {
+  transform: scale(1.05);
+}
