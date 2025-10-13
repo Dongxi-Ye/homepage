@@ -39,8 +39,8 @@ Here are photos of my kitty 🐾:
     {% assign path = file.path | downcase %}
     {% if path contains "assets/images/gallery/" %}
       <div class="photo-item">
-        <a href="{{ '/assets/images/gallery/congruent%20number.jpg'| relative_url }} ">
-          < img src="{{ '/assets/images/gallery/congruent%20number.jpg'| relative_url }}" alt="kitty photo" />
+        <a href="{{ '/assets/images/gallery/congruent_number.jpg'| relative_url }} ">
+          < img src="{{ '/assets/images/gallery/congruent_number.jpg'| relative_url }}" alt="kitty photo" />
         </a >
       </div>
     {% endif %}
