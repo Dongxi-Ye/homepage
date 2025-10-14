@@ -21,7 +21,7 @@ Work experience
 
 Recent publications
 ======
-* T. Huber, J. McLaughlin and D. Ye, \emph{Dissection of the quintuple product, with applications}, Journal of Combinatorial Theory, Series A, 219 (2026), 106122.
+* T. Huber, J. McLaughlin and D. Ye, $$\text{Dissection of the quintuple product, with applications}$$, Journal of Combinatorial Theory, Series A, 219 (2026), 106122.
 * T. Bhowmik, W.-L. Tsai and D. Ye, Euler-type recurrences for $$t$$-color and $$t$$-regular partition functions,  Research in the Mathematical Sciences 12, 69 (2025).
 * T. Huber, J. McLaughlin and D. Ye, Generalizations of some $$q$$-product Identities of Ramanujan and others, Contemporary Mathematics AMS, 2025.
 * T. Huber, J. McLaughlin and D. Ye, Dissections of lacunary eta quotients and identically vanishing coefficients. Advances in Applied Mathematics 168 (2025), Paper No. 102902.
