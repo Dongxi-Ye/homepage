@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Dongxi Ye"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
