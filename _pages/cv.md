@@ -21,6 +21,9 @@ Work experience
 
 Recent publications
 ======
+* Z. Huang, T. Huber, J. McLaughlin, P. Wang, D. Ye and Y. Xu, Sign-patterns of certain infinite products,
+
+  Annals of Combinatorics (2026).
 * T. Huber, J. McLaughlin and D. Ye, Dissection of the quintuple product, with applications,
 
   Journal of Combinatorial Theory, Series A, 219 (2026), 106122.
