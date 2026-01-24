@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     : &name "Dongxi Ye"
 description              : &description "personal description"
 url                      : "https://Dongxi-Ye.github.io/homepage"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/homepage" # the subpath of your site, e.g. "/blog"
 repository               : "Dongxi-Ye.github.io/homepage"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
