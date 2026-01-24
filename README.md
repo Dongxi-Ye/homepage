@@ -70,7 +70,9 @@ docker run -p 4000:4000 --rm -v C:\path\to\your\site:/usr/src/app jekyll-site
 ```
 
 ## Photo Gallery
-Check out my photo gallery [here](gallery.html).
+
+<img src="photo1.jpg" width="250">
+<img src="photo2.jpg" width="250">
 
 ### Things to Keep in Mind:
 1. **Use PowerShell**:
