@@ -71,8 +71,8 @@ docker run -p 4000:4000 --rm -v C:\path\to\your\site:/usr/src/app jekyll-site
 
 ## Photo Gallery
 
-<img src="photo1.jpg" width="250">
-<img src="photo2.jpg" width="250">
+<img src="Balla with a Christmas tree.jpg" width="250">
+
 
 ### Things to Keep in Mind:
 1. **Use PowerShell**:
