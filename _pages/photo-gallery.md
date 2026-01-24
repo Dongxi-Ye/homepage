@@ -6,6 +6,6 @@ permalink: /photo-gallery/
 
 Here are some photos of my kitty 🐾:
 
-<img src="{{ site.baseurl }}/Balla with a Christmas tree.jpg" width="300">
+<img src="/homepage/Balla with a Christmas tree.jpg" width="300">
 
 
