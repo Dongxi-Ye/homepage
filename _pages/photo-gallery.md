@@ -6,6 +6,8 @@ permalink: /photo-gallery/
 
 Here are some photos of my kitty 🐾:
 
-![kitty photo](../assets/images/gallery/congruent_number.jpg)
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 16px;">
+  <img src="/homepage/assets/images/gallery/congruent_number.jpg" alt="Photo 1">
+</div>
 
 
