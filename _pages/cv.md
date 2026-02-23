@@ -25,8 +25,8 @@ Recent publications
 ======
 * Z. Huang, T. Huber, J. McLaughlin, P. Wang, D. Ye and Y. Xu, *Sign-patterns of certain infinite products*, Annals of Combinatorics (2026).
 * T. Huber, J. McLaughlin and D. Ye, *Dissection of the quintuple product, with applications*, Journal of Combinatorial Theory, Series A, 219 (2026), 106122.
-* T. Bhowmik, W.-L. Tsai and D. Ye, *Euler-type recurrences for $$t$$-color and $$t$$-regular partition functions*, Research in the Mathematical Sciences 12, 69 (2025).
-* T. Huber, J. McLaughlin and D. Ye, *Generalizations of some $$q$$-product Identities of Ramanujan and others*, Contemporary Mathematics AMS, 2025.
+* T. Bhowmik, W.-L. Tsai and D. Ye, *Euler-type recurrences for t-color and t-regular partition functions*, Research in the Mathematical Sciences 12, 69 (2025).
+* T. Huber, J. McLaughlin and D. Ye, *Generalizations of some q-product Identities of Ramanujan and others*, Contemporary Mathematics AMS, 2025.
 * T. Huber, J. McLaughlin and D. Ye, *Dissections of lacunary eta quotients and identically vanishing coefficients*, Advances in Applied Mathematics 168 (2025), Paper No. 102902.
 * M. van Hoeij, W.-L. Tsai and D. Ye, *The modularity of Z.-W. Sun’s conjectural formulas for 1/π*, Proceedings of the American Mathematical Society (2025).
 * F. Beukers, W.-L. Tsai and D. Ye, *Lucas congruences using modular forms*, Bulletin of the London Mathematical Society, 57 (2025), 69-78.
@@ -38,9 +38,9 @@ Recent publications
 Journal of Number Theory, 253 (2023), 17-68.
 * T. Huber, C. Liu, J. McLaughlin, D. Ye, M. Yuan and S. Zhang, *On the vanishing of the coefficients of CM eta quotients*,
 Proceedings of the Edinburgh Mathematical Society, 66 (2023), 1202-1216.
-* T. Huber, D. Schultz and D. Ye, *Ramanujan-Sato series for $$1/\pi$$*,
+* T. Huber, D. Schultz and D. Ye, *Ramanujan-Sato series for 1/π*,
 Acta Arithmetica, 207 (2023), 121-160.
-* D. Ye, *Difference of a Hauptmodul for $$\Gamma_0(N)$$ and certain Gross-Zagier type CM value formulas*,
+* D. Ye, *Difference of a Hauptmodul for \Gamma_0(N) and certain Gross-Zagier type CM value formulas*,
 Science China Mathematics, 65 (2022), 221-258.
 * D. Ye, *On a conjecture of Chen and Yui: Resultants and discriminants*,
 Canadian Journal of Mathematics, 74 (2022), 486-526.
@@ -58,7 +58,7 @@ Mathematische Nachrichten, 293 (2020), 1801-1826.
 Monatshefte fur Mathematik, 192 (2020), 465–478.
 * D. Ye, *On two families of modular subgroups*,
 Journal of Number Theory, 199 (2019), 289-309.
-* D. Ye, *Gross-Zagier type CM value formulas on $$X_{0}^{*}(p)$$*,
+* D. Ye, *Gross-Zagier type CM value formulas on X_{0}^{*}(p)*,
 Journal of Number Theory, 196 (2019), 14-34.
 * T. Yang and D. Ye, *Weakly holomorphic modular forms on $$\Gamma_{0}(4)$$ and Borcherds products on unitary group U(2,1)*,
 Research in Number Theory, 4 (2018), no. 2.
