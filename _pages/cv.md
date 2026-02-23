@@ -23,7 +23,7 @@ Work experience
 
 Recent publications
 ======
-* Z. Huang, T. Huber, J. McLaughlin, P. Wang, D. Ye and Y. Xu, $\mbox{\emph{Sign-patterns of certain infinite products}}$, Annals of Combinatorics (2026).
+* Z. Huang, T. Huber, J. McLaughlin, P. Wang, D. Ye and Y. Xu, {\it Sign-patterns of certain infinite products}, Annals of Combinatorics (2026).
 * T. Huber, J. McLaughlin and D. Ye, Dissection of the quintuple product, with applications, Journal of Combinatorial Theory, Series A, 219 (2026), 106122.
 * T. Bhowmik, W.-L. Tsai and D. Ye, Euler-type recurrences for $$t$$-color and $$t$$-regular partition functions, Research in the Mathematical Sciences 12, 69 (2025).
 * T. Huber, J. McLaughlin and D. Ye, Generalizations of some $$q$$-product Identities of Ramanujan and others, Contemporary Mathematics AMS, 2025.
